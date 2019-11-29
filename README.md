@@ -13,3 +13,9 @@
 Having all these reviews from customers who have bought the clothes online, it would be interesting to see if I can build some models that can predict whether a review has a negative or positive sentiment, especially the negative reviews can be interestering to look at - to see what the firm can improve.
 
 I will use NLP to make a tidy format of the data and find the sentiment of the reviews.
+
+# Enjoy.
+
+<img src="http://4.bp.blogspot.com/-sLgBLS3bJO8/U__Kx6PnkRI/AAAAAAAAAWM/Gz3cL5jiwTo/s1600/godeeper.jpg" alt="drawing" width="400"/>
+
+
