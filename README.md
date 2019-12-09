@@ -2,7 +2,7 @@
 
 [Link to html version](https://raw.githack.com/michaeldybdahl/m3_groupassignment/master/women_revieews.html)
 
-[Link to kaggle notebook](https://www.kaggle.com/mich3935/women-revieews) - **NB: The DP models changed a bit in the notebook after commiting it, even after setting chunks for each code. So I recommend looking at the html version, where the comments fit the output.**
+[Link to kaggle notebook](https://www.kaggle.com/mich3935/women-revieews) - **NB: The DP models changed a bit in the notebook after commiting it, even after setting seed for each chunk. So I recommend looking at the html version, where the comments fit the output.**
 
 [Link to stakeholder report](https://github.com/michaeldybdahl/m3_groupassignment/blob/master/Stakeholder%20report_M3%20EXAM.pdf)
 
